@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <_expirationDate>2020-04-18T09:14:16</_expirationDate>
+    <ProductId>1</ProductId>
+    <Name>crema de maini</Name>
+    <Description>crema de maini cu galbenele</Description>
+    <Price>56</Price>
+    <ExpirationDate>2020-04-18T09:14:16</ExpirationDate>
+  </Product>
+  <Product>
+    <_expirationDate>2020-04-18T09:14:16</_expirationDate>
+    <ProductId>1</ProductId>
+    <Name>crema de fata</Name>
+    <Description>crema de fata cu galbenele</Description>
+    <Price>56</Price>
+    <ExpirationDate>2020-04-18T09:14:16</ExpirationDate>
+  </Product>
+  <Product>
+    <_expirationDate>2022-04-18T09:14:16</_expirationDate>
+    <ProductId>1</ProductId>
+    <Name>demachiant</Name>
+    <Description>demachiant pure active</Description>
+    <Price>130</Price>
+    <ExpirationDate>2022-04-18T09:14:16</ExpirationDate>
+  </Product>
+  <Product>
+    <_expirationDate>2019-04-23T21:40:55</_expirationDate>
+    <ProductId>1</ProductId>
+    <Name>unt de cacao</Name>
+    <Description>unt de cacao bio</Description>
+    <Price>586</Price>
+    <ExpirationDate>2019-04-23T21:40:55</ExpirationDate>
+  </Product>
+  <Product>
+    <_expirationDate>2019-04-23T21:40:55</_expirationDate>
+    <ProductId>2</ProductId>
+    <Name>unt de cocos</Name>
+    <Description>unt de cocos bio</Description>
+    <Price>586</Price>
+    <ExpirationDate>2019-04-23T21:40:55</ExpirationDate>
+  </Product>
+  <Product>
+    <_expirationDate>2019-04-23T21:40:55</_expirationDate>
+    <ProductId>3</ProductId>
+    <Name>lip balm</Name>
+    <Description>balsam de buze </Description>
+    <Price>159</Price>
+    <ExpirationDate>2019-04-23T21:40:55</ExpirationDate>
+  </Product>
+</ArrayOfProduct>

@@ -1,0 +1,14 @@
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\bin\Debug\GestiuneVanzari.exe.config
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\bin\Debug\GestiuneVanzari.exe
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\bin\Debug\GestiuneVanzari.pdb
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\obj\Debug\GestiuneVanzari.FrmMainMenu.resources
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\obj\Debug\GestiuneVanzari.Properties.Resources.resources
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\obj\Debug\GestiuneVanzari.csproj.GenerateResource.Cache
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\obj\Debug\GestiuneVanzari.exe
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\obj\Debug\GestiuneVanzari.pdb
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\obj\Debug\GestiuneVanzari.frmLogin.resources
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\obj\Debug\GestiuneVanzari.frmClients.resources
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\obj\Debug\GestiuneVanzari.frmProducts.resources
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\obj\Debug\GestiuneVanzari.frmTransactions.resources
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\obj\Debug\GestiuneVanzari.frmNewClient.resources
+D:\CSIE-2\semestrul 2\Paw\GestiuneVanzari\GestiuneVanzari\obj\Debug\GestiuneVanzari.frmEditProduct.resources

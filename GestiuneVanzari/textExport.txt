@@ -1,0 +1,8 @@
+Id;Name;Description;Price;ExpirationDate
+1;crema de maini;crema de maini cu galbenele;5,6;18.04.2020
+1;crema de fata;crema de fata cu galbenele;5,6;18.04.2020
+1;demachiant;demachiant pure active;13,0;18.04.2022
+1;unt de cacao;unt de cacao bio;58;23.04.2019
+2;unt de cocos;unt de cocos bio;58,6;23.04.2019
+3;lip balm;balsam de buze ;15,9;23.04.2019
+1;gel de dus;gel de dus cu cafea;8,9;23.04.2018
